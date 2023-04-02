@@ -1,3 +1,5 @@
+https://media.giphy.com/media/EopV0wKH3USE9F7fhe/giphy.gif
+
 # Credit_Card_Spending
 Data Analysis of credit card transactions made in India, offering a comprehensive look at the spending habits of Indians across the nation with the help of SQL
 

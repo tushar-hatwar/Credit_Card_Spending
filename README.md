@@ -1,4 +1,4 @@
-Apologies for the confusion. Here's the modified version of the project summary using PostgreSQL with Azure Data Studio:
+## Credit Card Spending
 
 ![MasterHead](https://media.giphy.com/media/EopV0wKH3USE9F7fhe/giphy.gif)
 
